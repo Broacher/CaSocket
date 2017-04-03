@@ -1,0 +1,9 @@
+{
+	"name": "DrawingBoard",
+	"description": "Realtime Drawing Canvas",
+	"author": "Claudiu Vladean",
+	"dependencies": {
+		"express": "4.x",
+		"socket.io": "*"
+	}
+}
